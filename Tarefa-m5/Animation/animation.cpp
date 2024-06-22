@@ -1,8 +1,8 @@
 // UNISINOS
 // Curso: Ciência da Computação - Híbrido
 // Atividade Acadêmica - Processamento Gráfico
-// Módulo 4
-// Tarefa: Resposta ao Desafio M4
+// Módulo 5
+// Tarefa: Resposta ao Desafio M5
 // Data: 22/06/2024
 // Professor: Fernando Marson
 // Aluno: Lucas Lazzaretti Weber

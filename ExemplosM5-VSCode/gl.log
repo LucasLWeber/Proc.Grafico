@@ -1,0 +1,4 @@
+GL_LOG_FILE log. local time Sat Jun 22 15:41:56 2024
+
+starting GLFW 3.3.8 X11 GLX EGL OSMesa clock_gettime evdev sharedrenderer: llvmpipe (LLVM 15.0.6, 256 bits)
+version: 4.5 (Compatibility Profile) Mesa 22.3.6
