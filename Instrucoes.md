@@ -30,7 +30,7 @@
 ## Repositorio para referencia
 [Prof. Rossana](https://github.com/fellowsheep/PG2024-1/tree/main/HelloTriangle%20-%20SpritesAnimados/HelloTriangle)
 
-- (Source.cpp)[https://github.com/fellowsheep/PG2024-1/blob/main/HelloTriangle%20-%20SpritesAnimados/HelloTriangle/Source.cpp]
-- (Sprite.cpp)[https://github.com/fellowsheep/PG2024-1/blob/main/HelloTriangle%20-%20SpritesAnimados/HelloTriangle/Sprite.cpp]
+- [Source.cpp](https://github.com/fellowsheep/PG2024-1/blob/main/HelloTriangle%20-%20SpritesAnimados/HelloTriangle/Source.cpp)
+- [Sprite.cpp](https://github.com/fellowsheep/PG2024-1/blob/main/HelloTriangle%20-%20SpritesAnimados/HelloTriangle/Sprite.cpp)
 
 Criar classe sprite para facilitar na reutilizacao e desenhar diversar sprites na tela.
